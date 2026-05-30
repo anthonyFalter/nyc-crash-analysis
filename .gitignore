@@ -1,0 +1,10 @@
+# Ignore raw and cleaned datasets that are too large for GitHub
+dataset/Motor_Vehicle_Collisions_-_Crashes.csv
+dataset/cleaned_crash_data.csv
+
+# Jupyter notebook checkpoint files
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
