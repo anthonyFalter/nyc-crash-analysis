@@ -1,6 +1,8 @@
 # NYC Crash Data Preprocessing
 
 This repository contains a simple preprocessing pipeline for the NYC Motor Vehicle Collisions dataset.
+The dataset contains approximately `2265209` rows and `29` coluns.
+The dataset has datas ranging from the year 2012 to 2026
 
 ## Files
 
@@ -27,8 +29,10 @@ Clean and standardize the NYC crash dataset for analysis by:
    pip install pandas numpy matplotlib seaborn
    ```
 2. Open and run `preprocessing.ipynb`.
-3. The notebook outputs `dataset/cleaned_crash_data.csv`.
-4. Figures are saved to `/fig/` folder, used for verifying data points.
+3. Download the data set from `https://catalog.data.gov/dataset/motor-vehicle-collisions-crashes`.
+4. Move the dataset to `/dataset` folder.
+5. The notebook outputs `dataset/cleaned_crash_data.csv`.
+6. Figures are saved to `/fig/` folder, used for verifying data points.
 
 ## Notes
 
