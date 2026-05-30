@@ -1,7 +1,7 @@
 # NYC Crash Data Preprocessing
 
 This repository contains a simple preprocessing pipeline for the NYC Motor Vehicle Collisions dataset.
-The dataset contains approximately `2265209` rows and `29` coluns.
+The dataset contains approximately `2265209` rows and `29` columns.
 The dataset has datas ranging from the year 2012 to 2026
 
 ## Files
