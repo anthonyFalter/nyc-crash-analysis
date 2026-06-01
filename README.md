@@ -6,8 +6,8 @@ The dataset has datas ranging from the year 2012 to 2026
 
 # PowerBI Dashboard
 The finished dashboard is available at the following links:
-Maven Analytics: https://mavenshowcase.com/project/56553
-Drive(Downloadable): https://drive.google.com/drive/u/5/folders/1ThkMeIgaW49jGelvR5PF2Rzp09J-Z3bg
+- Maven Analytics: https://mavenshowcase.com/project/56553
+- Drive(Downloadable): https://drive.google.com/drive/u/5/folders/1ThkMeIgaW49jGelvR5PF2Rzp09J-Z3bg
 
 ## Files
 
