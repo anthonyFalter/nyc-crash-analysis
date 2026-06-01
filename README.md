@@ -2,7 +2,7 @@
 
 This repository contains a simple preprocessing pipeline for the NYC Motor Vehicle Collisions dataset.
 The dataset contains approximately `2265209` rows and `29` columns.
-The dataset has datas ranging from the year 2012 to 2026
+The dataset has data ranging from the year 2012 to 2026
 
 # PowerBI Dashboard
 The finished dashboard is available at the following links:
