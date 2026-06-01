@@ -4,6 +4,11 @@ This repository contains a simple preprocessing pipeline for the NYC Motor Vehic
 The dataset contains approximately `2265209` rows and `29` columns.
 The dataset has datas ranging from the year 2012 to 2026
 
+# PowerBI Dashboard
+The finished dashboard is available at the following links:
+Maven Analytics: https://mavenshowcase.com/project/56553
+Drive(Downloadable): https://drive.google.com/drive/u/5/folders/1ThkMeIgaW49jGelvR5PF2Rzp09J-Z3bg
+
 ## Files
 
 - `preprocessing.ipynb` - notebook with data loading, cleaning, normalization, and export steps
